@@ -1,2 +1,43 @@
-# bornhack_ml_crashcourse
-Presentation for Bornhack 2019 conference, including all the code and references
+# Machine Learning Crash Course | Bornhack 2019
+## Introduction
+This repository contains the code, slides and references for a 45 minute presentation delivered at the Bornhack 2019 conference. 
+
+This readme is meant as a **one-stop shop for finding your way into the world of Machine Learning / Artificial Intelligence**. 
+
+You may be entirely new to the worlds of data science, data engineering and software development. That's ok, you're in the right place. This document's job is to direct you to the right resources such as:
+
+* MOOC courses
+* techniques, algorithms & libraries
+* tools, books, articles 
+
+and even organizations within the world of ML that may be of useful to you, _depending on which branch of ML / AI caught your interest_.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [PLaceholder](#placeholder)
+  - [Placeholder Two](#placeholder-two)
+    - [Placeholder Three](#placeholder-three)
+- [Next Steps](#next-steps)
+- [Acknowledgements](#acknowledgements)
+- [Contribute](#contribute)
+- [License](#license)
+
+
+## Next Steps
+
+Jump into the references from above, share your experiences with the wider ML / AI community, make things that work and have fun :).
+
+## Acknowledgements
+
+WIP
+
+## Contribute
+Contributions are always welcome! 
+
+If you find an error, a better reference point for the branch of ML, an updated version of a linked tool or such - please reach out via email at the address given in my github bio or propose a fix by opening a pull request.
+
+## License
+![GNU 3](https://i.ibb.co/3RcsTNw/gnu-license-small.png "GNU Copyleft logo")
+
+To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work.
