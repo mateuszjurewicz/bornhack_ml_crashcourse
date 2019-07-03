@@ -1,3 +1,6 @@
+# Slides in .key format for now (keep pdf only)
+slides/*key
+
 # mac stuff
 *DS_Store*
 
