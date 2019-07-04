@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/python-v3.7.0-blue.svg)
+
 # Machine Learning Crash Course | Bornhack 2019
 ## Introduction
 This repository contains the code, slides and references for a 45 minute presentation delivered at the Bornhack 2019 conference. 
@@ -10,7 +12,7 @@ You may be entirely new to the worlds of data science, data engineering and soft
 * techniques, algorithms & libraries
 * tools, books, articles 
 
-and even organizations within the world of ML that may be of useful to you, _depending on which branch of ML / AI caught your interest_.
+and even organizations, events and groups of like-minded people within the world of ML that may be of interest to you, depending on which branch of ML / AI caught your eye.
 
 ## Table of Contents
 
