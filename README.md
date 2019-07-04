@@ -1,4 +1,7 @@
 ![Python](https://img.shields.io/badge/python-v3.7.0-blue.svg)
+![JupyterNotebook](https://img.shields.io/badge/jupyter-v5.7.8-blue.svg)
+![JupyterLab](https://img.shields.io/badge/jupyterlab-v1.0.1-blue.svg)
+
 
 # Machine Learning Crash Course | Bornhack 2019
 ## Introduction
