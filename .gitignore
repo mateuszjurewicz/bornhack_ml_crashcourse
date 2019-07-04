@@ -1,3 +1,10 @@
+# Pycharm & VS code
+.idea/*
+.vscode/*
+
+# venv
+bornhack_venv/*
+
 # Slides in .key format for now (keep pdf only)
 slides/*key
 
