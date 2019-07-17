@@ -28,6 +28,8 @@ and even organizations, events and groups of like-minded people within the world
 - [Contribute](#contribute)
 - [License](#license)
 
+## Placeholder
+* NLP Preprocessing (my article)- https://medium.com/@mateusz.jurewicz/machine-learning-natural-language-preprocessing-with-python-5922d79d9ee2
 
 ## Next Steps
 
