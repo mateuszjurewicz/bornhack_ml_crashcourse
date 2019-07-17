@@ -23,8 +23,10 @@ and even organizations, events and groups of like-minded people within the world
 We'll also showcase the code and core concepts for ML style transfer in a separate jupyter notebook, the end results will look like this (and you'll be able to **run it on your own images** to play around with it!):
 
 
-<img src="./data/imgs/content-tigers-2.jpg" width="512" height="341">512
+<img src="./data/imgs/content-tigers-2.jpg" width="512" height="341">
 <img src="./data/imgs/generated-tigers-arabesque-2.jpg" width="512" height="341"> 
+
+## PLaceholder
 
 <img src="./data/imgs/content-tigers.jpg" width="256" height="350">
 <img src="./data/imgs/generated-tigers-arabesque.jpg" width="256" height="350"> 
