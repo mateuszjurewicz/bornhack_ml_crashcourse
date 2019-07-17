@@ -24,7 +24,7 @@ We'll also showcase the code and core concepts for ML style transfer in a separa
 
 Original Image           |  Restyled Image          | Style Sample
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="./data/imgs/content-tigers-2.jpg" width="256"> |  <img src="./data/imgs/generated-tigers-arabesque-2.jpg" width="256">  | <img src="./data/imgs/style-arabesque.jpg" width="256">
+<img src="./data/imgs/content-tigers-2.jpg" width="256"> |  <img src="./data/imgs/generated-tigers-arabesque-2.jpg" width="256">  | <img src="./data/imgs/style-arabesque-2.jpg" width="256">
 
 ## Table of Contents
 
