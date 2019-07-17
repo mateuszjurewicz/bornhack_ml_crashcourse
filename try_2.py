@@ -26,8 +26,8 @@ num_content_layers = len(content_layers)
 num_style_layers   = len(style_layers)
 
 # path where the content and style images are located
-content_path = 'data/content-tiger.jpg'
-style_path   = 'data/style-hokusai.jpg'
+content_path = 'data/content-tiger-2.jpg'
+style_path   = 'data/style-beksinski.jpg'
 
 # Save the result as
 save_name = 'generated.jpg'

@@ -1,6 +1,9 @@
-![Python](https://img.shields.io/badge/python-v3.7.0-blue.svg)
-![JupyterNotebook](https://img.shields.io/badge/jupyter-v5.7.8-blue.svg)
-![JupyterLab](https://img.shields.io/badge/jupyterlab-v1.0.1-blue.svg)
+![Python](https://img.shields.io/badge/python-v3.7.0-green.svg)
+![JupyterNotebook](https://img.shields.io/badge/jupyter-v4.5.0-blue.svg)
+![JupyterLab](https://img.shields.io/badge/jupyterlab-v1.0.2-blue.svg)
+![Pillow](https://img.shields.io/badge/pillow-v6.1.0-blue.svg)
+![Keras](https://img.shields.io/badge/keras-v2.2.4-orange.svg)
+![Tensorflow](https://img.shields.io/badge/tensorflow-v1.14.0-orange.svg)
 
 
 # Machine Learning Crash Course | Bornhack 2019
