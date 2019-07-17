@@ -1,5 +1,8 @@
 # data
-data/*
+data/vgg_weights/*
+data/styles/*
+data/generated/*
+data/contents/*
 *generated.jpg*
 
 # Pycharm & VS Code

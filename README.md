@@ -23,16 +23,40 @@ and even organizations, events and groups of like-minded people within the world
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [PLaceholder](#placeholder)
-  - [Placeholder Two](#placeholder-two)
-    - [Placeholder Three](#placeholder-three)
+- [Resources](#resources)
+  - [Natural Language Processing](#natural-language-processing)
+  - [Neural Style Transfer](#neural-style-transfer)
+  - [ML Youtube Channels](#ml-youtube-channels)
 - [Next Steps](#next-steps)
 - [Acknowledgements](#acknowledgements)
 - [Contribute](#contribute)
 - [License](#license)
 
-## Placeholder
-* NLP Preprocessing (my article)- https://medium.com/@mateusz.jurewicz/machine-learning-natural-language-preprocessing-with-python-5922d79d9ee2
+## Resources
+Here, you can find resources grouped by branches of ML.
+
+### Natural Language Processing
+* Natural Language Processing
+    * NLP Preprocessing - my own [article on medium](https://medium.com/@mateusz.jurewicz/machine-learning-natural-language-preprocessing-with-python-5922d79d9ee2)
+
+### Neural Style Transfer
+
+<img src="https://user-images.githubusercontent.com/18056781/45930320-463c3180-bf7c-11e8-916f-fd170540e37c.jpg" width="256"> <img src="https://user-images.githubusercontent.com/22646509/61398448-5129cf00-a8cc-11e9-94a5-ea755077e8b8.jpg" width="256" height="350"> <img src="https://user-images.githubusercontent.com/18056781/45930322-4b00e580-bf7c-11e8-90aa-4d3595fb0e40.png" width="256">
+
+* Neural Style Transfer
+    * General introduction by Jeremy Howard's Fastai, [youtube lecture 13](https://www.youtube.com/watch?v=xXXiC4YRGrQ)
+    * Introductory articles by Vamshik Shetty and Pawan Sasanka Ammanamanchi, [part 1 on medium](https://towardsdatascience.com/neural-style-transfer-tutorial-part-1-f5cd3315fa7f)
+    * Transferring style in 3D, [article](https://dcgi.fel.cvut.cz/home/sykorad/styleblit.html) by Daniel Sýkora, Ondřej Jamriška et al., short [youtube introduction](https://www.youtube.com/watch?v=S7HlxaMmWAU) by Two Minute Papers
+
+### ML Youtube Channels
+* **Youtube Channels** about ML, Deep Learning, Artificial intelligence:
+    * Wonderful channel by [Rob Miles](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg), with a strong focus on long-term artificial general intelligence, but also explaining recent papers within the field of ML in some depth.
+    * Bite-sized introductions to recent ML (& much more) papers by [Two Minute Papers](https://www.youtube.com/user/keeroyz)
+    * Great, foundational channel devoted to the Fastai course by [Jeremy Howard](https://www.youtube.com/user/howardjeremyp/playlists)
+    * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/videos)'s channel about libraries in ML, new papers and even the business side of working as an ML engineer. Personally a bit too flashy for my taste, but perhaps it will be just the thing for you :)
+    * Honorable mention: [Tom Scott](https://www.youtube.com/watch?v=-JlxuQ7tPgQ)'s video about a specific AGI scenario
+    * For more youtube outlets, check out [this list](https://blog.feedspot.com/machine_learning_youtube_channels/)
+
 
 ## Next Steps
 
@@ -40,7 +64,7 @@ Jump into the references from above, share your experiences with the wider ML / 
 
 ## Acknowledgements
 
-WIP
+The presentation's core is the neural style transfer code, heavily borrowed from Pawan Sasanka Ammanamanchi's (Shashi456@github) repository implementing the paper *"A Neural Algorithm of Artistic Style"* by Leon A. Gatys, Alexander S. Ecker and Matthias Bethge, available on arxiv [here](https://arxiv.org/abs/1508.06576). Pawan's implementation can be found [here](https://github.com/Shashi456/Neural-Style/tree/master/Neural%20Style%20Transfer) and his 6 part tutorial on neural style transfer, co-authored with Vamshik Shetty can be found [here](https://towardsdatascience.com/neural-style-transfer-series-part-2-91baad306b24). The original paper, the re-implementations and the articles are all fantastic.
 
 ## Contribute
 Contributions are always welcome! 
