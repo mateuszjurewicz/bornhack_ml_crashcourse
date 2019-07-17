@@ -23,6 +23,7 @@ and even organizations, events and groups of like-minded people within the world
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Setup](#setup)
 - [Resources](#resources)
   - [Natural Language Processing](#natural-language-processing)
   - [Neural Style Transfer](#neural-style-transfer)
@@ -31,6 +32,40 @@ and even organizations, events and groups of like-minded people within the world
 - [Acknowledgements](#acknowledgements)
 - [Contribute](#contribute)
 - [License](#license)
+
+## Setup
+You can either simply read about the resources in the next section and follow any that pique your interest or you can install the requirements from the requirements.txt file present in this repository and follow along the code part of this presentation in a **jupyter notebook** or **jupyter lab**.
+
+I recommend doing that in a separate virtual environment, created by installing the `virtualenv` module first:
+
+    pip install virtualenv
+
+Followed by the creation of your own virutal environment for this repository:
+
+    python3 -m venv /path/to/your/virtual/environment
+
+You can then activate this virtual environment on Mac and Linux (recommended) via:
+
+    source <venv>/bin/activate
+
+And on Windows through:
+
+    <venv>\Scripts\activate
+
+You can also accomplish the same clarity of dependencies with e.g. conda, if you prefer.
+
+Finally, to install the exact versions of the required libraries:
+
+    pip install -r requirements.txt
+    conda install --file requirements.txt 
+
+You will need python version 3.7.0, as indicated by the badge on top of this readme file. You can check your python version through:
+
+    python --version
+
+The last thing you'll need are the weights for the vgg network, which can be downloaded from [here](https://bethgelab.org/media/uploads/pytorch_models/vgg_conv.pth), and then need to be placed in the `data/vgg_weights` directory.
+
+You're all set!
 
 ## Resources
 Here, you can find resources grouped by branches of ML.
@@ -41,7 +76,7 @@ Here, you can find resources grouped by branches of ML.
 
 ### Neural Style Transfer
 
-<img src="https://user-images.githubusercontent.com/18056781/45930320-463c3180-bf7c-11e8-916f-fd170540e37c.jpg" width="256"> <img src="https://user-images.githubusercontent.com/22646509/61398448-5129cf00-a8cc-11e9-94a5-ea755077e8b8.jpg" width="256" height="350"> <img src="https://user-images.githubusercontent.com/18056781/45930322-4b00e580-bf7c-11e8-90aa-4d3595fb0e40.png" width="256">
+<img src="./data/imgs/content-tiger-2.jpg" width="256"> <img src="./data/imgs/generated-tigers-arabesque.jpg" width="256" height="350"> <img src="./data/imgs/style-arabesque.jpg" width="256">
 
 * Neural Style Transfer
     * General introduction by Jeremy Howard's Fastai, [youtube lecture 13](https://www.youtube.com/watch?v=xXXiC4YRGrQ)
