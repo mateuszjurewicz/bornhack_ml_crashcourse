@@ -78,9 +78,9 @@ Here, you can find resources grouped by branches of ML.
 
 ### Neural Style Transfer
 
-<img src="./data/imgs/content-tigers.jpg" width="256" height="350">
+<img src="./data/imgs/content-tigers.jpg" width="256">
 <img src="./data/imgs/generated-tigers-arabesque.jpg" width="256" height="350"> 
-<img src="./data/imgs/style-arabesque.jpg" width="256" height="350">
+<img src="./data/imgs/style-arabesque.jpg" width="256">
 
 * Neural Style Transfer
     * General introduction by Jeremy Howard's Fastai, [youtube lecture 13](https://www.youtube.com/watch?v=xXXiC4YRGrQ)
