@@ -20,7 +20,7 @@ You may be entirely new to the worlds of data science, data engineering and soft
 
 and even organizations, events and groups of like-minded people within the world of ML that may be of interest to you, depending on which branch of ML / AI caught your eye.
 
-We'll also showcase the code and core concepts for ML style transfer in a separate jupyter notebook, the end results will look like this (and you'll be able to **run it on your own images** to play around with it!):
+We'll also showcase the code and core concepts for **neural style transfer** in a separate jupyter notebook, the end results will look like this (and you'll be able to **run it on your own images** to play around with it!):
 
 Original Image           |  Restyled Image          | Style Sample
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -81,10 +81,6 @@ Here, you can find resources grouped by branches of ML.
     * NLP Preprocessing - my own [article on medium](https://medium.com/@mateusz.jurewicz/machine-learning-natural-language-preprocessing-with-python-5922d79d9ee2)
 
 ### Neural Style Transfer
-
-<img src="./data/imgs/content-tigers.jpg" width="256">
-<img src="./data/imgs/generated-tigers-arabesque.jpg" width="256" height="350"> 
-<img src="./data/imgs/style-arabesque.jpg" width="256">
 
 * Neural Style Transfer
     * General introduction by Jeremy Howard's Fastai, [youtube lecture 13](https://www.youtube.com/watch?v=xXXiC4YRGrQ)
