@@ -26,8 +26,8 @@ num_content_layers = len(content_layers)
 num_style_layers   = len(style_layers)
 
 # path where the content and style images are located
-content_path = 'data/contents/content-cheetahs.jpg'
-style_path   = 'data/styles/style-arabesque-resized-properly.jpg'
+content_path = 'data/contents/content-kejroll-drawing.jpg'
+style_path   = 'data/styles/style-pattern-4.jpg'
 
 # Save the result as
 save_name = 'generated.jpg'
@@ -272,4 +272,6 @@ def run_style_transfer(content_path, style_path, num_iterations=200, content_wei
       
   return best_img, best_loss
 
-best, best_loss = run_style_transfer(content_path, style_path)
+# run main function
+if __name__ == '__main__':
+  best, best_loss = run_style_transfer(content_path, style_path)
