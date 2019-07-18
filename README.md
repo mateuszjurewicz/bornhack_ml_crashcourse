@@ -25,7 +25,7 @@ We'll also showcase the code and core concepts for **neural style transfer** in 
 Original Image           |  Restyled Image          | Style Sample
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="./data/imgs/content-tigers-2.jpg" width="300"> |  <img src="./data/imgs/generated-tigers-arabesque-2.jpg" width="300">  | <img src="./data/imgs/style-arabesque-2.jpg" width="300">
-<img src="./data/imgs/content-eagle.jpg" width="256"> |  <img src="./data/imgs/generated-eagle-pattern-3.jpg" width="256">  | <img src="./data/imgs/style-pattern-3.jpg" width="256" height="135">
+<img src="./data/imgs/content-eagle.jpg" width="256"> |  <img src="./data/imgs/generated-eagle-pattern-3.jpg" width="256">  | <img src="./data/imgs/style-pattern-3.jpg" width="256">
 
 ## Table of Contents
 
