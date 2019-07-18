@@ -10,7 +10,7 @@
 ## Introduction
 This repository contains the code, slides and references for a 45 minute presentation delivered at the Bornhack 2019 conference. 
 
-This readme is meant as a **one-stop shop for finding your way into the world of Machine Learning / Artificial Intelligence**. 
+This readme is meant as a **one-stop shop for finding your way into the world of Machine Learning & Artificial Intelligence**. 
 
 You may be entirely new to the worlds of data science, data engineering and software development. That's ok, you're in the right place. This document's job is to direct you to the right resources such as:
 
