@@ -26,8 +26,8 @@ num_content_layers = len(content_layers)
 num_style_layers   = len(style_layers)
 
 # path where the content and style images are located
-content_path = 'data/contents/content-kejroll-drawing.jpg'
-style_path   = 'data/styles/style-pattern-4.jpg'
+content_path = 'data/contents/content-eagle.jpg'
+style_path   = 'data/styles/style-pattern-3.jpg'
 
 # Save the result as
 save_name = 'generated.jpg'
@@ -64,7 +64,7 @@ def load_img(path_to_img):
 def deprocess_img(processed_img):
   x = processed_img.copy()
   
-  # perform the inverse of the preprocessiing step
+  # perform the inverse of the preprocessing step
   x[:, :, 0] += 103.939
   x[:, :, 1] += 116.779
   x[:, :, 2] += 123.68
