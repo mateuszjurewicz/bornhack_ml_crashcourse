@@ -33,6 +33,7 @@ Original Image           |  Restyled Image          | Style Sample
 - [Introduction](#introduction)
 - [Setup](#setup)
 - [Resources](#resources)
+  - [Visualizing ML](#visualizing-ml)
   - [Natural Language Processing](#natural-language-processing)
   - [Neural Style Transfer](#neural-style-transfer)
   - [ML Youtube Channels](#ml-youtube-channels)
@@ -77,6 +78,14 @@ You're all set!
 
 ## Resources
 Here, you can find resources grouped by branches of ML.
+
+### Visualizing ML
+
+* Convolutional Layers
+    * Simple, interactive visualization in [3D](http://scs.ryerson.ca/~aharley/vis/conv/) and [2D](http://scs.ryerson.ca/~aharley/vis/conv/flat.html) of convolutional, pooling and dense layers. It also shows how 2 convolutional layers are connected.
+    * Great [medium article](https://towardsdatascience.com/how-to-visualize-convolutional-features-in-40-lines-of-code-70b7d87b0030) by Fabio M. Graetz on how to visualize your convolutional layers.
+* Activation Atlas
+    * Gorgeous [feature visualization atlas](https://distill.pub/2019/activation-atlas/) for the entire InceptionV1 network, revealing how a network represents larger visual concepts, by Shan Carter, Zan Armstrong et. al.
 
 ### Natural Language Processing
 * Natural Language Processing
