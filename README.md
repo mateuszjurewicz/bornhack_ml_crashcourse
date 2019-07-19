@@ -33,10 +33,12 @@ Original Image           |  Restyled Image          | Style Sample
 - [Introduction](#introduction)
 - [Setup](#setup)
 - [Resources](#resources)
+  - [Core Concepts](#core-concepts)
   - [Visualizing ML](#visualizing-ml)
   - [Natural Language Processing](#natural-language-processing)
   - [Neural Style Transfer](#neural-style-transfer)
   - [ML Youtube Channels](#ml-youtube-channels)
+  - [ML Blogs](#ml-blogs)
 - [Next Steps](#next-steps)
 - [Acknowledgements](#acknowledgements)
 - [Contribute](#contribute)
@@ -79,34 +81,41 @@ You're all set!
 ## Resources
 Here, you can find resources grouped by branches of ML.
 
+### Core Concepts
+
+ * **Backpropagation**, i.e. what makes learning possible, very nicely explained visually [here](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/).
+
 ### Visualizing ML
 
 * Convolutional Layers
     * Simple, interactive visualization in [3D](http://scs.ryerson.ca/~aharley/vis/conv/) and [2D](http://scs.ryerson.ca/~aharley/vis/conv/flat.html) of convolutional, pooling and dense layers. It also shows how 2 convolutional layers are connected.
     * Great [medium article](https://towardsdatascience.com/how-to-visualize-convolutional-features-in-40-lines-of-code-70b7d87b0030) by Fabio M. Graetz on how to visualize your convolutional layers.
+    * Fantastic, in-depth but easy to follow along [article](https://distill.pub/2017/feature-visualization/) by Chris Colah.
 * Activation Atlas
     * Gorgeous [feature visualization atlas](https://distill.pub/2019/activation-atlas/) for the entire InceptionV1 network, revealing how a network represents larger visual concepts, by Shan Carter, Zan Armstrong et. al.
 
 ### Natural Language Processing
 * Natural Language Processing
-    * NLP Preprocessing - my own [article on medium](https://medium.com/@mateusz.jurewicz/machine-learning-natural-language-preprocessing-with-python-5922d79d9ee2)
+    * NLP Preprocessing - my own [article on medium](https://medium.com/@mateusz.jurewicz/machine-learning-natural-language-preprocessing-with-python-5922d79d9ee2).
 
 ### Neural Style Transfer
 
 * Neural Style Transfer
-    * General introduction by Jeremy Howard's Fastai, [youtube lecture 13](https://www.youtube.com/watch?v=xXXiC4YRGrQ)
-    * Introductory articles by Vamshik Shetty and Pawan Sasanka Ammanamanchi, [part 1 on medium](https://towardsdatascience.com/neural-style-transfer-tutorial-part-1-f5cd3315fa7f)
-    * Transferring style in 3D, [article](https://dcgi.fel.cvut.cz/home/sykorad/styleblit.html) by Daniel Sýkora, Ondřej Jamriška et al., short [youtube introduction](https://www.youtube.com/watch?v=S7HlxaMmWAU) by Two Minute Papers
+    * General introduction by Jeremy Howard's Fastai, [youtube lecture 13](https://www.youtube.com/watch?v=xXXiC4YRGrQ).
+    * Introductory articles by Vamshik Shetty and Pawan Sasanka Ammanamanchi, [part 1 on medium](https://towardsdatascience.com/neural-style-transfer-tutorial-part-1-f5cd3315fa7f).
+    * Transferring style in 3D, [article](https://dcgi.fel.cvut.cz/home/sykorad/styleblit.html) by Daniel Sýkora, Ondřej Jamriška et al., short [youtube introduction](https://www.youtube.com/watch?v=S7HlxaMmWAU) by Two Minute Papers.
 
 ### ML Youtube Channels
 * **Youtube Channels** about ML, Deep Learning, Artificial intelligence:
     * Wonderful channel by [Rob Miles](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg), with a strong focus on long-term artificial general intelligence, but also explaining recent papers within the field of ML in some depth.
-    * Bite-sized introductions to recent ML (& much more) papers by [Two Minute Papers](https://www.youtube.com/user/keeroyz)
-    * Great, foundational channel devoted to the Fastai course by [Jeremy Howard](https://www.youtube.com/user/howardjeremyp/playlists)
-    * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/videos)'s channel about libraries in ML, new papers and even the business side of working as an ML engineer. Personally a bit too flashy for my taste, but perhaps it will be just the thing for you :)
-    * Honorable mention: [Tom Scott](https://www.youtube.com/watch?v=-JlxuQ7tPgQ)'s video about a specific AGI scenario
-    * For more youtube outlets, check out [this list](https://blog.feedspot.com/machine_learning_youtube_channels/)
+    * Bite-sized introductions to recent ML (& much more) papers by [Two Minute Papers](https://www.youtube.com/user/keeroyz).
+    * Great, foundational channel devoted to the Fastai course by [Jeremy Howard](https://www.youtube.com/user/howardjeremyp/playlists).
+    * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/videos)'s channel about libraries in ML, new papers and even the business side of working as an ML engineer. Personally a bit too flashy for my taste, but perhaps it will be just the thing for you :).
+    * Honorable mention: [Tom Scott](https://www.youtube.com/watch?v=-JlxuQ7tPgQ)'s video about a specific AGI scenario.
+    * For more youtube outlets, check out [this list](https://blog.feedspot.com/machine_learning_youtube_channels/).
 
+### ML Blogs
+  * Fantastic, in-depth but easy to follow articles by Chris Colah on his [blog](https://colah.github.io/about.html).
 
 ## Next Steps
 
