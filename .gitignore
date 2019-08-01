@@ -20,6 +20,7 @@ slides/*key
 
 # scratchpad
 scratchpad.py
+scratchpad.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -83,6 +83,7 @@ Here, you can find resources grouped by branches of ML.
 
 ### Core Concepts
 
+ * **How do machines learn?** - a cutesy, introductory [youtube video by CGP Grey](https://www.youtube.com/watch?v=R9OHn5ZF4Uo).
  * **Backpropagation**, i.e. what makes learning possible, very nicely explained visually [here](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/).
 
 ### Visualizing ML
