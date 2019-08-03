@@ -83,8 +83,11 @@ Here, you can find resources grouped by branches of ML.
 
 ### Core Concepts
 
- * **How do machines learn?** - a cutesy, introductory [youtube video by CGP Grey](https://www.youtube.com/watch?v=R9OHn5ZF4Uo).
+ * **How do machines learn?** - a cutesy, introductory [youtube video by CGP Grey](https://www.youtube.com/watch?v=R9OHn5ZF4Uo), albeit more focusing on genetic algorithms.
+ * **Matrix Multiplication** - a simple, step by step [introduction to matmul](https://www.youtube.com/watch?v=aKhhYguY0DQ) by the Khan Academy.
+* **Convolution basics**, an [interactive demonstration](http://setosa.io/ev/image-kernels/) of how a convolutional layer transforms an image, by Victor Powell.
  * **Backpropagation**, i.e. what makes learning possible, very nicely explained visually [here](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/).
+
 
 ### Visualizing ML
 
