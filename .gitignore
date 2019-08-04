@@ -15,6 +15,7 @@ bornhack_venv/*
 # Slides in .key format for now (keep pdf only)
 slides/*key
 slides/*gif
+slides/*mp4
 
 # mac stuff
 *DS_Store*
