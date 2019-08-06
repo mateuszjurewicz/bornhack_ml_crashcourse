@@ -203,7 +203,7 @@ def run_style_transfer(content_path, style_path, num_iterations=200, content_wei
   max_vals = 255 - norm_means 
     
 
-  # In original paper, the initial stylized image is random matrix of same size as that of content image
+  # In the original paper, the initial stylized image is random matrix of same size as that of content image
   # but in later images content image was used instead on random values for first stylized image
   # because it proved to help to stylize faster
   generated_image = load_img(content_path)
