@@ -204,6 +204,7 @@ These are the foundational (but still quite in-depth) courses that you can take 
 ### Other
 
 * **European Commission's Guidelines on Ethical Ai**, that promotes trustworthiness, can be found [here](https://ec.europa.eu/digital-single-market/en/news/ethics-guidelines-trustworthy-ai).
+* **Meetups** - you may want to look up the PyData, DataViz, Computer Vision and other groups of interest in your area. Having people to share your work with and learn from them is a great way to expand one's understanding. I also recommend finding study groups for doing the online courses outlined in the previous sections. 
 
 ## Next Steps
 
