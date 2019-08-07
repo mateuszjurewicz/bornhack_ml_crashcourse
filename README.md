@@ -113,6 +113,8 @@ At some point, you'll want to jump in-depth into one of the popular ML libraries
 * **Switching from TensorFlow to PyTorch** - an [article](https://towardsdatascience.com/moving-from-keras-to-pytorch-f0d4fff4ce79) on medium by Rahul Agarwal, that can give you a sense of the differences between the two libraries.
 * **FastAi Library** - effectively a high-level api for PyTorch but also something significantly more than that. You can find the [docs and installation guide](https://docs.fast.ai/) here.
 * **XGBoost** library, implementing the gradient boosting framework, which has been very popular with regards to Kaggle challenges, it's docs can be found [here](https://xgboost.readthedocs.io/en/latest/).
+* **ONNX** is a [tool](https://onnx.ai/about) for converting models developed through various libraries into interchangeable formats. If you train in PyTorch but want to use Tensorflow Serving, use ONNX.
+* **Lime** is a [project](https://github.com/marcotcr/lime) aimed to help us understand why our models make the predictions they make - what in the input particularly influences the output. Very useful in classification tasks, helped me diagnose my preprocessing pipeline in many NLP tasks. _Also great for the visualizations it provides_.
 
 There are other libraries that you may find useful - such as `numpy`, `pandas`, and `sklearn`. If you're not using Python, you may be interested in languages such as R and Julia, and their relevant ML libraries.
 
@@ -130,6 +132,7 @@ A key problem in ML is transparency of the models. Here are some tools and artic
 ### Generative ML
 Models that can generate new samples, similar to the ones they were exposed to, such as images, video, text or music.
 
+* **Generative Adversarial Networks** - a great [introduction](https://skymind.com/wiki/generative-adversarial-network-gan) to the concept, including code and links to many other related technologies, by Skymind.
 * **Music Generation** - a [MuseNet paper](https://openai.com/blog/musenet/) by OpenAi regarding the generation of short musical samples.
 
 ### Federated Learning
@@ -142,12 +145,13 @@ Software agents that act in an environment to maximize a reward function.
 
 * **Best Hands-On Introductory Tutorial** to RL by the OpenAi team, called [SpinningUp](http://spinningup.openai.com/en/latest/spinningup/rl_intro.html). Includes a detailed but approachable introduction to all the relevant concepts, solid instructions on environment setup and specific examples of how to get started and run actual RL algorithms locally.
 * **Unity's Environment Tool** for training RL agents in a way that's easy to visualize, [here](https://unity3d.com/machine-learning).
+* **DeepMind's AlphaStar**, which is the model that plays Starcraft 2, a nice [overview](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/) of how it works.
 
 ### Natural Language Processing
 Working with understanding & generating text, translation & language models.
 
-* **NLP Preprocessing** - my own [article on medium](https://medium.com/@mateusz.jurewicz/machine-learning-natural-language-preprocessing-with-python-5922d79d9ee2).
 * **OpenAi's Generative Language Model** - which can spin up stories about unicorns, [here](https://openai.com/blog/better-language-models/).
+* **NLP Preprocessing** - my own [article on medium](https://medium.com/@mateusz.jurewicz/machine-learning-natural-language-preprocessing-with-python-5922d79d9ee2).
 
 ### Neural Style Transfer
 The core of the provided jupyter notebook and python script. Uses a pretrained network for visual classification in a very interesting way.
@@ -188,7 +192,7 @@ You can also find plenty of interesting articles on `medium` and `towardsdatasci
 
 Many interesting papers are published on `arxiv` before they are published in a journal or conference. I personally recommend reading articles explaining the gist of the paper first, then the abstract and summary of the article instead of jumping straight in. Below are some examples of interesting papers.
 
-* **Attentional Generative Adversarial Networks** - here's a [paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0842.pdf) on how to teach a model to generate images based on sentences describing its content.
+* **Attentional Generative Adversarial Networks** - here's a [paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0842.pdf) on how to teach a model to generate an image based on sentences describing its content.
 * **Concrete Problems in AI Safety** - a great paper proposing a set of safety scenarios that should be passed by the AI agent, available [here](https://arxiv.org/pdf/1606.06565.pdf).
 
 There are so many it's hard to pick the most interesting ones, primarily be aware of the existence of `arxiv` and at some point consider reading and reimplementing the papers. There are good tools for managing the scientific papers such as `zotero` and `mendeley`.
